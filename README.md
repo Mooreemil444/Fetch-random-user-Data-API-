@@ -1,2 +1,2 @@
-# Fetch-random-user-Data-API-
-Fetching random user Data 
+npm init -y
+npm install node-fetch
